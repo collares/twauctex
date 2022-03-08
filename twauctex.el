@@ -17,7 +17,6 @@
 ;;;
 ;;; Code:
 
-(require 'tex)
 (require 'latex)
 (require 'cl-lib)
 (require 'tex-site)
